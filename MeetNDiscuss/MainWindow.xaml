@@ -1,0 +1,42 @@
+﻿<Window x:Class="MeetNDiscuss.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MeetNDiscuss"
+        mc:Ignorable="d"
+        Height="600" Width="1000"
+        MinHeight="600" MinWidth="900"
+        FontFamily="./Fonts/#nunito font">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Styles/ColorPalette.xaml"/>
+                <ResourceDictionary Source="/Styles/Styles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.4*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        
+        <TextBlock Style="{DynamicResource MainScreenTextBlockStyle}"
+                   Text="Meet N' Discuss - лучший способ халявить на работе!" 
+                   FontFamily="./Fonts/#oswald font"
+                   FontSize="31"
+                   Foreground="{DynamicResource BlackBrush}"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Bottom"
+                   Margin="0 0 0 10"/>
+        <StackPanel Orientation="Horizontal"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                    Grid.Row="1">
+            <Button x:Name="StartDiscusstionButton" Style="{DynamicResource MainScreenButtonStyle}" Margin="10" FontSize="25" Foreground="{DynamicResource GrayBrush}" Content="Начать обсуждение"/>
+            <Button x:Name="JoinDiscussionButton" Style="{DynamicResource MainScreenButtonStyle}" Margin="10" FontSize="25" Foreground="{DynamicResource GrayBrush}" Content="Подключиться"/>
+        </StackPanel>
+        
+    </Grid>
+</Window>
