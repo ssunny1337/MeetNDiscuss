@@ -240,7 +240,10 @@
                     </Button>
                     <Button x:Name="StreamScreenButton" Style="{DynamicResource DefaultButtonStyle}" Background="{DynamicResource DarkGreenBrush}" Foreground="{DynamicResource WhiteBrush}" Width="30" Height="30" Margin="10 0 0 0" Click="StreamScreenButton_Click">
                         <Button.Content>
-                            <Image Source="monitor.png" Width="20" Height="20"/>
+                            <Grid>
+                                <Image Source="monitor.png" Width="20" Height="20"/>
+                                <Image x:Name="IsOffMonitorImage" Source="off.png" Width="32.4" Height="32.4" HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="Visible"/>
+                            </Grid>
                         </Button.Content>
                     </Button>
                     <Button x:Name="ChatButton" Style="{DynamicResource DefaultButtonStyle}" Background="{DynamicResource DarkGreenBrush}" Foreground="{DynamicResource WhiteBrush}" Width="30" Height="30" Margin="10 0" Click="ChatButton_Click">

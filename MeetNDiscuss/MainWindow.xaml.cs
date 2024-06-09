@@ -521,6 +521,7 @@ namespace MeetNDiscuss
             _chatServer = null;
             _chatClient = null;
             VideoHostCameraOff.Visibility = Visibility.Visible;
+            IsOffMonitorImage.Visibility = Visibility.Visible;
 
             HomeGrid.Visibility = Visibility.Visible;
             RoomGrid.Visibility = Visibility.Hidden;
@@ -586,7 +587,8 @@ namespace MeetNDiscuss
         }
 
         private void StreamScreenButton_Click(object sender, RoutedEventArgs e)
-        {            
+        {
+            IsOffMonitorImage.Visibility = IsOffMonitorImage.Visibility == Visibility.Visible ? Visibility.Hidden : Visibility.Visible;
             _isStreamingScreen = !_isStreamingScreen;
 
             if (_isStreamingScreen)
