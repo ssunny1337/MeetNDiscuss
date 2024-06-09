@@ -6,8 +6,11 @@
         xmlns:local="clr-namespace:MeetNDiscuss"
         mc:Ignorable="d"
         Height="600" Width="1000"
-        MinHeight="600" MinWidth="900"
-        FontFamily="./Fonts/#nunito font">
+        MinHeight="600" MinWidth="1000"
+        FontFamily="./Fonts/#nunito font"
+        Title="Meet N' Discuss"
+        Icon="video-camera.ico"        
+        Closing="Window_Closing">
     <Window.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
@@ -17,26 +20,284 @@
         </ResourceDictionary>
     </Window.Resources>
     <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="0.4*"/>
-            <RowDefinition Height="1*"/>
-        </Grid.RowDefinitions>
-        
-        <TextBlock Style="{DynamicResource MainScreenTextBlockStyle}"
-                   Text="Meet N' Discuss - лучший способ халявить на работе!" 
-                   FontFamily="./Fonts/#oswald font"
-                   FontSize="31"
-                   Foreground="{DynamicResource BlackBrush}"
-                   HorizontalAlignment="Center"
-                   VerticalAlignment="Bottom"
-                   Margin="0 0 0 10"/>
-        <StackPanel Orientation="Horizontal"
+        <Grid x:Name="HomeGrid" Visibility="Visible">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.4*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+
+            <Button x:Name="SettingsButton" Style="{DynamicResource SettingsButtonStyle}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10" Click="SettingsButton_Click">
+                <Button.Content>
+                    <Image Source="setting.png"/>
+                </Button.Content>
+            </Button>
+
+            <TextBlock Style="{DynamicResource MainScreenTextBlockStyle}"
+                       Text="Meet N' Discuss - соберёмся, чтобы притвориться занятыми!" 
+                       FontFamily="./Fonts/#oswald font"
+                       FontSize="27.6"
+                       Foreground="{DynamicResource BlackBrush}"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Bottom"
+                       Margin="0 0 0 10"/>
+            <StackPanel Orientation="Horizontal"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Top"
+                        Grid.Row="1">
+                <Button x:Name="StartDiscussionButton" Style="{DynamicResource MainScreenButtonStyle}" Margin="10" FontSize="25" Foreground="{DynamicResource GrayBrush}" Content="Начать обсуждение" Click="StartDiscussionButton_Click"/>
+                <Button x:Name="JoinDiscussionButton" Style="{DynamicResource MainScreenButtonStyle}" Margin="10" FontSize="25" Foreground="{DynamicResource GrayBrush}" Content="Подключиться" Click="JoinDiscussionButton_Click"/>
+            </StackPanel>
+        </Grid>
+
+        <StackPanel x:Name="EnterConnectionCodeStackPanel" Visibility="Hidden" 
+                    VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Введите код для подключения к комнате:"                            
+                       FontSize="31"                       
+                       Foreground="{DynamicResource DarkGreenBrush}"                           
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Center"
+                       Margin="0 0 0 20"/>
+            <TextBox x:Name="ConnectionCodeTextBox" 
+                     Style="{DynamicResource EnterCodeTextboxStyle}"
+                     Width="608"
+                     Height="40"                     
+                     FontSize="20"
+                     VerticalContentAlignment="Center"/>
+
+            <Button x:Name="ConnectToRoomButton" 
+                    Style="{DynamicResource DefaultButtonStyle}"
+                    Background="{DynamicResource DarkGreenBrush}"
+                    Foreground="{DynamicResource WhiteBrush}"
+                    FontSize="14"
+                    Width="150" Height="40"
+                    VerticalAlignment="Center"
                     HorizontalAlignment="Center"
-                    VerticalAlignment="Top"
-                    Grid.Row="1">
-            <Button x:Name="StartDiscusstionButton" Style="{DynamicResource MainScreenButtonStyle}" Margin="10" FontSize="25" Foreground="{DynamicResource GrayBrush}" Content="Начать обсуждение"/>
-            <Button x:Name="JoinDiscussionButton" Style="{DynamicResource MainScreenButtonStyle}" Margin="10" FontSize="25" Foreground="{DynamicResource GrayBrush}" Content="Подключиться"/>
+                    Grid.Row="1"
+                    Margin="20"
+                    Content="Подключиться" 
+                    Click="ConnectToRoomButton_Click"/>
         </StackPanel>
         
+        <Grid x:Name="RoomGrid" Visibility="Hidden">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="7*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0" Background="{DynamicResource DarkGreenBrush}">
+                <TextBlock Text="Комната"                            
+                           FontSize="31"
+                           Margin="10 0"
+                           Foreground="{DynamicResource WhiteBrush}"                           
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Left"/>
+                <TextBlock x:Name="ConnectionCodeTextBlock"
+                           FontSize="18"                               
+                           Foreground="{DynamicResource WhiteBrush}"                           
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Right"                           
+                           Margin="10 0 45 0">
+                    <Run Text="Код для подключения к комнате: "/>
+                    <Run x:Name="ConnectionCodeRun"/>
+                </TextBlock>
+                
+                <Button x:Name="CopySipherCodeButton" 
+                        Style="{DynamicResource IconButtonStyle}"
+                        HorizontalAlignment="Right"
+                        VerticalAlignment="Center"
+                        Margin="0 0 10 0" 
+                        Width="30"
+                        Height="30"
+                        Click="CopySipherCodeButton_Click">
+                    <Button.Content>
+                        <Image Source="copy.png" />
+                    </Button.Content>
+                </Button>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition x:Name="VideoClientColumn" Width="1*"/>
+                    <ColumnDefinition x:Name="ChatColumn" Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Border x:Name="HostOpacityMaskBorder" CornerRadius="16" Grid.Column="0" Margin="10" Background="{DynamicResource WhiteBrush}"/>
+                <Image x:Name="VideoHost" Grid.Column="0" Margin="10">
+                    <Image.OpacityMask>
+                        <VisualBrush Visual="{Binding ElementName=HostOpacityMaskBorder}"/>
+                    </Image.OpacityMask>
+                </Image>
+                <Border x:Name="VideoHostCameraOff" CornerRadius="16" Grid.Column="0" Margin="10" Width="{Binding ElementName=VideoHost, Path=ActualWidth}" Height="{Binding ElementName=VideoHost, Path=ActuaHeight}" Background="{DynamicResource DarkGreenBrush}">
+                    <Image Source="cameraoff.png" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="50" Height="50"/>
+                </Border>
+                <Border x:Name="ClientOpacityMaskBorder" CornerRadius="16" Grid.Column="1" Margin="10" Background="{DynamicResource WhiteBrush}"/>
+                <Image x:Name="VideoClient" Grid.Column="1" Margin="10">
+                    <Image.OpacityMask>
+                        <VisualBrush Visual="{Binding ElementName=ClientOpacityMaskBorder}"/>
+                    </Image.OpacityMask>
+                </Image>
+                <Border x:Name="VideoClientCameraOff" CornerRadius="16" Grid.Column="1" Margin="10" Width="{Binding ElementName=VideoClient, Path=ActuaWidth}" Height="{Binding ElementName=VideoClient, Path=ActuaHeight}" Background="{DynamicResource LightGreenBrush}">
+                    <Image Source="cameraoff2.png" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="50" Height="50"/>
+                </Border>
+                <Grid Grid.Column="2" Width="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"/>
+                        <RowDefinition Height="30"/>
+                    </Grid.RowDefinitions>
+                    <ListBox x:Name="ChatListBox" Grid.Row="0" BorderThickness="0" VerticalContentAlignment="Bottom" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Hidden" VirtualizingPanel.ScrollUnit="Item" ItemsSource="{Binding MessageItems}">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Border CornerRadius="4">
+                                    <DockPanel Margin="5">
+                                        <TextBlock DockPanel.Dock="Top" Text="{Binding Name}" FontSize="10" FontWeight="Medium" TextTrimming="CharacterEllipsis"/>
+                                        <TextBlock Text="{Binding Message}" FontSize="10" TextWrapping="Wrap" Opacity=".8"/>
+                                    </DockPanel>
+                                </Border>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                        <ListBox.ItemContainerStyle>
+                            <Style TargetType="{x:Type ListBoxItem}"
+                           BasedOn="{StaticResource {x:Type ListBoxItem}}">
+                                <Setter Property="DockPanel.Dock"
+                                Value="Bottom" />
+                            </Style>
+                        </ListBox.ItemContainerStyle>
+                        <ListBox.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <DockPanel LastChildFill="False" />
+                            </ItemsPanelTemplate>
+                        </ListBox.ItemsPanel>
+                        <ListBox.Resources>
+                            <SolidColorBrush x:Key="{x:Static SystemColors.HighlightBrushKey}" Color="Transparent"/>
+                            <SolidColorBrush x:Key="{x:Static SystemColors.HighlightTextBrushKey}" Color="Transparent"/>
+                            <SolidColorBrush x:Key="{x:Static SystemColors.ControlBrushKey}" Color="Transparent"/>
+                            <SolidColorBrush x:Key="{x:Static SystemColors.InactiveSelectionHighlightBrushKey}" Color="Transparent"/>
+                        </ListBox.Resources>
+                    </ListBox>
+                    <Grid Grid.Row="1" Height="30">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*"/>
+                            <ColumnDefinition Width="30"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBox x:Name="EnterChatMessageTextBox" Style="{DynamicResource EnterMessageTextBoxStyle}" Grid.Column="0"/>
+                        <Button x:Name="SendChatMessageButton" IsDefault="True" Style="{DynamicResource SendMessageButtonStyle}" SnapsToDevicePixels="True" Background="{DynamicResource LightGreenBrush}" Foreground="{DynamicResource WhiteBrush}" Width="30" Height="30" Grid.Column="1" Click="SendChatMessageButton_Click">
+                            <Image Source="send.png" Width="20" Height="20"/>
+                        </Button>
+                    </Grid>
+                    <Grid.Style>
+                        <Style TargetType="{x:Type Grid}">
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsChatOpen}" Value="True">
+                                    <DataTrigger.EnterActions>
+                                        <BeginStoryboard>
+                                            <Storyboard>
+                                                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="Width">
+                                                    <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="200">
+                                                        <EasingDoubleKeyFrame.EasingFunction>
+                                                            <CubicEase EasingMode="EaseOut"/>
+                                                        </EasingDoubleKeyFrame.EasingFunction>
+                                                    </EasingDoubleKeyFrame>
+                                                </DoubleAnimationUsingKeyFrames>
+                                            </Storyboard>
+                                        </BeginStoryboard>
+                                    </DataTrigger.EnterActions>
+                                    <DataTrigger.ExitActions>
+                                        <BeginStoryboard>
+                                            <Storyboard>
+                                                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="Width">
+                                                    <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="0">
+                                                        <EasingDoubleKeyFrame.EasingFunction>
+                                                            <CubicEase EasingMode="EaseIn"/>
+                                                        </EasingDoubleKeyFrame.EasingFunction>
+                                                    </EasingDoubleKeyFrame>
+                                                </DoubleAnimationUsingKeyFrames>
+                                            </Storyboard>
+                                        </BeginStoryboard>
+                                    </DataTrigger.ExitActions>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Grid.Style>
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="2">
+                <Button Style="{DynamicResource DefaultButtonStyle}" HorizontalAlignment="Left" Background="{DynamicResource DarkGreenBrush}" Foreground="{DynamicResource WhiteBrush}" Width="80" Height="30" Margin="10 0" Click="BackToHomeGridButton_Click" Content="Отключиться"/>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                    <Button x:Name="TurnOffMicroButton" Style="{DynamicResource DefaultButtonStyle}" Background="{DynamicResource DarkGreenBrush}" Foreground="{DynamicResource WhiteBrush}" Width="30" Height="30" Click="TurnOffMicroButton_Click">
+                        <Button.Content>
+                            <Grid>
+                                <Image Source="micro.png" Width="20" Height="20"/>
+                                <Image x:Name="IsOffMicroImage" Source="off.png" Width="32.4" Height="32.4" HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="Hidden"/>
+                            </Grid>
+                        </Button.Content>
+                    </Button>
+                    <Button x:Name="TurnOffCameraButton" Style="{DynamicResource DefaultButtonStyle}" Background="{DynamicResource DarkGreenBrush}" Foreground="{DynamicResource WhiteBrush}" Width="30" Height="30" Margin="10 0 0 0" Click="TurnOffCameraButton_Click">
+                        <Button.Content>
+                            <Grid>
+                                <Image Source="camera.png" Width="20" Height="20"/>
+                                <Image x:Name="IsOffCameraImage" Source="off.png" Width="32.4" Height="32.4" HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="Hidden"/>
+                            </Grid>
+                        </Button.Content>
+                    </Button>
+                    <Button x:Name="StreamScreenButton" Style="{DynamicResource DefaultButtonStyle}" Background="{DynamicResource DarkGreenBrush}" Foreground="{DynamicResource WhiteBrush}" Width="30" Height="30" Margin="10 0 0 0" Click="StreamScreenButton_Click">
+                        <Button.Content>
+                            <Image Source="monitor.png" Width="20" Height="20"/>
+                        </Button.Content>
+                    </Button>
+                    <Button x:Name="ChatButton" Style="{DynamicResource DefaultButtonStyle}" Background="{DynamicResource DarkGreenBrush}" Foreground="{DynamicResource WhiteBrush}" Width="30" Height="30" Margin="10 0" Click="ChatButton_Click">
+                        <Image Source="chat.png" Width="20" Height="20"/>
+                    </Button>
+                </StackPanel>
+            </Grid>
+        </Grid>
+        
+        <Grid x:Name="SettingsGrid" Visibility="Hidden">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            
+            <StackPanel Grid.Row="0" Orientation="Horizontal">
+                <TextBlock Text="Настройки"                            
+                           FontSize="31"
+                           Margin="20 0"
+                           Foreground="{DynamicResource BlackBrush}"                           
+                           VerticalAlignment="Center"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" HorizontalAlignment="Left" Margin="20 0">
+                <TextBlock Text="Выбор микрофона"                            
+                           FontSize="18"
+                           Margin="0 0 0 5"
+                           Foreground="{DynamicResource BlackBrush}"/>
+                <ComboBox x:Name="WaveInDevicesComboBox"
+                          Width="200"
+                          Height="35"                                                                                                
+                          VerticalContentAlignment="Center"/>
+                <TextBlock Text="Выбор камеры"                            
+                           FontSize="18"
+                           Margin="0 15 0 5"
+                           Foreground="{DynamicResource BlackBrush}"/>
+                <ComboBox x:Name="VideoDevicesComboBox"
+                          Width="200"
+                          Height="35"                                                    
+                          DisplayMemberPath="Name"
+                          ItemsSource="{Binding VideoDevices}"
+                          SelectedItem="{Binding CurrentDevice}"
+                          VerticalContentAlignment="Center"/>
+            </StackPanel>
+
+            <Button x:Name="SaveSettingsButton" 
+                    Style="{DynamicResource DefaultButtonStyle}"
+                    Background="{DynamicResource DarkGreenBrush}"
+                    Foreground="{DynamicResource WhiteBrush}"
+                    FontSize="14"
+                    Width="150" Height="40"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Bottom"
+                    Grid.Row="1"
+                    Margin="20"
+                    Content="Сохранить"
+                    Click="SaveSettingsButton_Click"/>
+        </Grid>
     </Grid>
 </Window>

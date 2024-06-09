@@ -20,3 +20,13 @@ C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net6.0-windows\r
 C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net6.0-windows\MeetNDiscuss.pdb
 C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net6.0-windows\MeetNDiscuss.genruntimeconfig.cache
 C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net6.0-windows\ref\MeetNDiscuss.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net6.0-windows\AForge.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net6.0-windows\MeetNDiscuss.csproj.AssemblyReference.cache
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net6.0-windows\MeetNDiscuss.sourcelink.json
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net6.0-windows\MeetNDis.0241D366.Up2Date
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net6.0-windows\AForge.Imaging.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net6.0-windows\AForge.Math.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net6.0-windows\SimpleTCP.dll

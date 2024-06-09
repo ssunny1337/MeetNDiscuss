@@ -10,4 +10,6 @@
     <SolidColorBrush x:Key="PeachBrush" Color="#FBB5A7"/>
 
     <SolidColorBrush x:Key="BlackBrush" Color="#000000"/>
+
+    <SolidColorBrush x:Key="TransparentBrush" Color="#00000000"/>
 </ResourceDictionary>

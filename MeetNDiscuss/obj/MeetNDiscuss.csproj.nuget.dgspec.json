@@ -1,32 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sergm\\source\\repos\\MeetNDiscuss\\MeetNDiscuss\\MeetNDiscuss.csproj": {}
+    "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\MeetNDiscuss.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sergm\\source\\repos\\MeetNDiscuss\\MeetNDiscuss\\MeetNDiscuss.csproj": {
+    "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\MeetNDiscuss.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sergm\\source\\repos\\MeetNDiscuss\\MeetNDiscuss\\MeetNDiscuss.csproj",
+        "projectUniqueName": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\MeetNDiscuss.csproj",
         "projectName": "MeetNDiscuss",
-        "projectPath": "C:\\Users\\sergm\\source\\repos\\MeetNDiscuss\\MeetNDiscuss\\MeetNDiscuss.csproj",
+        "projectPath": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\MeetNDiscuss.csproj",
         "packagesPath": "C:\\Users\\sergm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sergm\\source\\repos\\MeetNDiscuss\\MeetNDiscuss\\obj\\",
+        "outputPath": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\sergm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows"
+          "net8.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0-windows7.0": {
-            "targetAlias": "net6.0-windows",
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows7.0",
             "projectReferences": {}
           }
         },
@@ -34,11 +38,54 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows7.0",
+          "dependencies": {
+            "AForge": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "AForge.Imaging": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "AForge.Math": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "AForge.Video": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "AForge.Video.DirectShow": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "NAudio": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "SimpleTCP": {
+              "target": "Package",
+              "version": "[1.0.24, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[9.0.0-preview.3.24172.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +105,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

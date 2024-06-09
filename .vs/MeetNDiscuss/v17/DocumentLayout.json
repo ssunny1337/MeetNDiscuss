@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\clienttcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\clienttcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\servertcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\servertcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sergm\\AppData\\Local\\Temp\\.vsdbgsrc\\50ab7bdae9243e5122ba9edb32871e43129da7d00db627fba3fc17e8a1e08277\\Window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\styles\\colorpalette.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\styles\\colorpalette.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\naudio\\inetworkchatcodec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\naudio\\inetworkchatcodec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|c:\\users\\sergm\\desktop\\meetndiscuss (2)\\meetndiscuss\\meetndiscuss\\messageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\messageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\naudio\\udpaudioreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\naudio\\udpaudioreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\naudio\\udpaudiosender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\naudio\\udpaudiosender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|c:\\users\\sergm\\desktop\\meetndiscuss (2)\\meetndiscuss\\meetndiscuss\\naudio\\networkaudiosender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\naudio\\networkaudiosender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\naudio\\networkaudioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\naudio\\networkaudioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\naudio\\uncompressedpcmchatcodec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\naudio\\uncompressedpcmchatcodec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\naudio\\iaudiosender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\naudio\\iaudiosender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\naudio\\iaudioreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\naudio\\iaudioreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\naudio\\reflectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\naudio\\reflectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\converters\\booleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\converters\\booleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\tjwrapper\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\tjwrapper\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\bitmaphelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\bitmaphelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\meetndiscuss\\naudio\\g722chatcodec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E3BE90-21D2-4FF6-86A3-F6030E8C6EF8}|MeetNDiscuss\\MeetNDiscuss.csproj|solutionrelative:meetndiscuss\\naudio\\g722chatcodec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\AppData\\Local\\Temp\\.vsdbgsrc\\50ab7bdae9243e5122ba9edb32871e43129da7d00db627fba3fc17e8a1e08277\\Window.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\50ab7bdae9243e5122ba9edb32871e43129da7d00db627fba3fc17e8a1e08277\\Window.cs",
+              "ToolTip": "C:\\Users\\sergm\\AppData\\Local\\Temp\\.vsdbgsrc\\50ab7bdae9243e5122ba9edb32871e43129da7d00db627fba3fc17e8a1e08277\\Window.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\50ab7bdae9243e5122ba9edb32871e43129da7d00db627fba3fc17e8a1e08277\\Window.cs [Read Only]",
+              "ViewState": "AQIAAMoQAAAAAAAAAAAjwNsQAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:57:52.991Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\TJWrapper\\Enums.cs",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\TJWrapper\\Enums.cs",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\TJWrapper\\Enums.cs",
+              "RelativeToolTip": "MeetNDiscuss\\TJWrapper\\Enums.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:04:16.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\ConfigManager.cs",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\ConfigManager.cs",
+              "RelativeToolTip": "MeetNDiscuss\\ConfigManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:00:15.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BitmapHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\BitmapHelpers.cs",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\BitmapHelpers.cs",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\BitmapHelpers.cs",
+              "RelativeToolTip": "MeetNDiscuss\\BitmapHelpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:58:25.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UncompressedPcmChatCodec.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\UncompressedPcmChatCodec.cs",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\NAudio\\UncompressedPcmChatCodec.cs",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\UncompressedPcmChatCodec.cs",
+              "RelativeToolTip": "MeetNDiscuss\\NAudio\\UncompressedPcmChatCodec.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:47:28.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "G722ChatCodec.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\G722ChatCodec.cs",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\NAudio\\G722ChatCodec.cs",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\G722ChatCodec.cs",
+              "RelativeToolTip": "MeetNDiscuss\\NAudio\\G722ChatCodec.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAowEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:23:42.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColorPalette.xaml",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\Styles\\ColorPalette.xaml",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\Styles\\ColorPalette.xaml",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\Styles\\ColorPalette.xaml",
+              "RelativeToolTip": "MeetNDiscuss\\Styles\\ColorPalette.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T21:02:42.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\Styles\\Styles.xaml",
+              "RelativeToolTip": "MeetNDiscuss\\Styles\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T20:59:54.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\EncryptionHelper.cs",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\EncryptionHelper.cs",
+              "RelativeToolTip": "MeetNDiscuss\\EncryptionHelper.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:51:50.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\MainWindow.xaml",
+              "RelativeToolTip": "MeetNDiscuss\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T18:12:26.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BooleanToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\Converters\\BooleanToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\Converters\\BooleanToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\Converters\\BooleanToVisibilityConverter.cs",
+              "RelativeToolTip": "MeetNDiscuss\\Converters\\BooleanToVisibilityConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:04:24.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MessageItem.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\MessageItem.cs",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\MessageItem.cs",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\MessageItem.cs",
+              "RelativeToolTip": "MeetNDiscuss\\MessageItem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:43:27.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MeetNDiscuss\\MainWindow.xaml.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAADwv+YAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:09:00.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NetworkAudioSender.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\NetworkAudioSender.cs",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\NAudio\\NetworkAudioSender.cs",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\NetworkAudioSender.cs",
+              "RelativeToolTip": "MeetNDiscuss\\NAudio\\NetworkAudioSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:08:53.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NetworkAudioPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\NetworkAudioPlayer.cs",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\NAudio\\NetworkAudioPlayer.cs",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\NetworkAudioPlayer.cs",
+              "RelativeToolTip": "MeetNDiscuss\\NAudio\\NetworkAudioPlayer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:08:46.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UdpAudioSender.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\UdpAudioSender.cs",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\NAudio\\UdpAudioSender.cs",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\UdpAudioSender.cs",
+              "RelativeToolTip": "MeetNDiscuss\\NAudio\\UdpAudioSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:05:54.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UdpAudioReceiver.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\UdpAudioReceiver.cs",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\NAudio\\UdpAudioReceiver.cs",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\UdpAudioReceiver.cs",
+              "RelativeToolTip": "MeetNDiscuss\\NAudio\\UdpAudioReceiver.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAD4vxkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:05:44.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAudioSender.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\IAudioSender.cs",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\NAudio\\IAudioSender.cs",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\IAudioSender.cs",
+              "RelativeToolTip": "MeetNDiscuss\\NAudio\\IAudioSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:04:50.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAudioReceiver.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\IAudioReceiver.cs",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\NAudio\\IAudioReceiver.cs",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\IAudioReceiver.cs",
+              "RelativeToolTip": "MeetNDiscuss\\NAudio\\IAudioReceiver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:04:27.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReflectionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\ReflectionHelper.cs",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\NAudio\\ReflectionHelper.cs",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\ReflectionHelper.cs",
+              "RelativeToolTip": "MeetNDiscuss\\NAudio\\ReflectionHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:01:31.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "INetworkChatCodec.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\INetworkChatCodec.cs",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\NAudio\\INetworkChatCodec.cs",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\NAudio\\INetworkChatCodec.cs",
+              "RelativeToolTip": "MeetNDiscuss\\NAudio\\INetworkChatCodec.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:57:52.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientTCP.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\ClientTCP.cs",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\ClientTCP.cs",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\ClientTCP.cs",
+              "RelativeToolTip": "MeetNDiscuss\\ClientTCP.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAqwIsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T11:46:02.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerTCP.cs",
+              "DocumentMoniker": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\ServerTCP.cs",
+              "RelativeDocumentMoniker": "MeetNDiscuss\\ServerTCP.cs",
+              "ToolTip": "C:\\Users\\sergm\\Desktop\\MeetNDiscuss (2)\\MeetNDiscuss\\MeetNDiscuss\\ServerTCP.cs",
+              "RelativeToolTip": "MeetNDiscuss\\ServerTCP.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAADgv2MAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:46:12.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

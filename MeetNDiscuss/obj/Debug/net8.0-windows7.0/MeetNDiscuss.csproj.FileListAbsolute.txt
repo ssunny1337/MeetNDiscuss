@@ -1,0 +1,294 @@
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.exe
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.deps.json
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.runtimeconfig.json
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.pdb
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Imaging.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Math.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Video.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Video.DirectShow.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\SimpleTCP.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\System.Drawing.Common.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\System.Private.Windows.Core.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.csproj.AssemblyReference.cache
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\Styles\ColorPalette.baml
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\Styles\Styles.baml
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MainWindow.g.cs
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\App.g.cs
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss_MarkupCompile.cache
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss_MarkupCompile.lref
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MainWindow.baml
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.g.resources
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.AssemblyInfoInputs.cache
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.AssemblyInfo.cs
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.csproj.CoreCompileInputs.cache
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.sourcelink.json
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDis.0241D366.Up2Date
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\refint\MeetNDiscuss.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.pdb
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.genruntimeconfig.cache
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\ref\MeetNDiscuss.dll
+C:\Users\sergm\source\repos\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.exe
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.deps.json
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.runtimeconfig.json
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.pdb
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Imaging.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Math.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Video.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Video.DirectShow.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\SimpleTCP.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\System.Private.Windows.Core.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\Styles\ColorPalette.baml
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\Styles\Styles.baml
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MainWindow.g.cs
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\App.g.cs
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss_MarkupCompile.cache
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss_MarkupCompile.lref
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MainWindow.baml
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.g.resources
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.AssemblyInfo.cs
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.sourcelink.json
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDis.0241D366.Up2Date
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\refint\MeetNDiscuss.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.pdb
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.genruntimeconfig.cache
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\ref\MeetNDiscuss.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.exe
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.deps.json
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.runtimeconfig.json
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.pdb
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Imaging.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Math.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Video.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Video.DirectShow.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\SimpleTCP.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\System.Drawing.Common.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\System.Private.Windows.Core.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.csproj.AssemblyReference.cache
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\Styles\ColorPalette.baml
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\Styles\Styles.baml
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MainWindow.g.cs
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\App.g.cs
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss_MarkupCompile.cache
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss_MarkupCompile.lref
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MainWindow.baml
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.g.resources
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.AssemblyInfoInputs.cache
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.AssemblyInfo.cs
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.csproj.CoreCompileInputs.cache
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.sourcelink.json
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDis.0241D366.Up2Date
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\refint\MeetNDiscuss.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.pdb
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.genruntimeconfig.cache
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\ref\MeetNDiscuss.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Asio.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Core.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Midi.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Wasapi.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.WinForms.dll
+C:\Users\sergm\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.WinMM.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Asio.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Core.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Midi.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Wasapi.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.WinForms.dll
+C:\Users\User\Desktop\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.WinMM.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.exe
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.deps.json
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.runtimeconfig.json
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.pdb
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Imaging.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Math.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Video.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Video.DirectShow.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Asio.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Core.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Midi.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Wasapi.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.WinForms.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.WinMM.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\SimpleTCP.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\System.Drawing.Common.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\System.Private.Windows.Core.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.csproj.AssemblyReference.cache
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\Styles\ColorPalette.baml
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\Styles\Styles.baml
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MainWindow.g.cs
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\App.g.cs
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss_MarkupCompile.cache
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss_MarkupCompile.lref
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MainWindow.baml
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.g.resources
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.AssemblyInfoInputs.cache
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.AssemblyInfo.cs
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.csproj.CoreCompileInputs.cache
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.sourcelink.json
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDis.0241D366.Up2Date
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\refint\MeetNDiscuss.dll
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.pdb
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.genruntimeconfig.cache
+C:\Users\sergm\Desktop\а\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\ref\MeetNDiscuss.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.exe
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.deps.json
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.runtimeconfig.json
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.pdb
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Imaging.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Math.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Video.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Video.DirectShow.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Asio.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Core.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Midi.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Wasapi.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.WinForms.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.WinMM.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\SimpleTCP.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\System.Private.Windows.Core.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\Styles\ColorPalette.baml
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\Styles\Styles.baml
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MainWindow.g.cs
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\App.g.cs
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss_MarkupCompile.cache
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss_MarkupCompile.lref
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MainWindow.baml
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.g.resources
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.AssemblyInfo.cs
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.sourcelink.json
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDis.0241D366.Up2Date
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\refint\MeetNDiscuss.dll
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.pdb
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.genruntimeconfig.cache
+C:\Users\User\Downloads\Telegram Desktop\MeetNDiscuss (5)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\ref\MeetNDiscuss.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.exe
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.deps.json
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.runtimeconfig.json
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.pdb
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Imaging.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Math.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Video.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Video.DirectShow.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Asio.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Core.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Midi.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Wasapi.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.WinForms.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.WinMM.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\SimpleTCP.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\System.Drawing.Common.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\System.Private.Windows.Core.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.csproj.AssemblyReference.cache
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\Styles\ColorPalette.baml
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\Styles\Styles.baml
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MainWindow.g.cs
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\App.g.cs
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss_MarkupCompile.cache
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss_MarkupCompile.lref
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MainWindow.baml
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.g.resources
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.AssemblyInfoInputs.cache
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.AssemblyInfo.cs
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.csproj.CoreCompileInputs.cache
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.sourcelink.json
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDis.0241D366.Up2Date
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\refint\MeetNDiscuss.dll
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.pdb
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.genruntimeconfig.cache
+C:\Users\sergm\Desktop\b\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\ref\MeetNDiscuss.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.exe
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.deps.json
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.runtimeconfig.json
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\MeetNDiscuss.pdb
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Imaging.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Math.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Video.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\AForge.Video.DirectShow.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Asio.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Core.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Midi.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.Wasapi.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.WinForms.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\NAudio.WinMM.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\SimpleTCP.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\System.Drawing.Common.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\System.Private.Windows.Core.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.csproj.AssemblyReference.cache
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\Styles\ColorPalette.baml
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\Styles\Styles.baml
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MainWindow.g.cs
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\App.g.cs
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss_MarkupCompile.cache
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss_MarkupCompile.lref
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MainWindow.baml
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.g.resources
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.AssemblyInfoInputs.cache
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.AssemblyInfo.cs
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.csproj.CoreCompileInputs.cache
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.sourcelink.json
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDis.0241D366.Up2Date
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\refint\MeetNDiscuss.dll
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.pdb
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\MeetNDiscuss.genruntimeconfig.cache
+C:\Users\sergm\Desktop\MeetNDiscuss (2)\MeetNDiscuss\MeetNDiscuss\obj\Debug\net8.0-windows7.0\ref\MeetNDiscuss.dll
